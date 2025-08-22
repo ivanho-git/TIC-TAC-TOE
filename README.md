@@ -1,7 +1,6 @@
 # 🎮 Tic-Tac-Toe Web Game
 
-![Tic-Tac-Toe GIF](![Uploading ScreenRecording2025-08-22152435-ezgif.com-video-to-gif-converter.gif…]()
-) <!-- Replace this with your GIF -->
+![Tic-Tac-Toe Demo](tictac.gif)
 
 A **modern, web-based Tic-Tac-Toe game** with a **competitive AI** using the **Minimax algorithm**. Challenge the AI or play 2-player mode with your friends! Perfect for learning web development, game logic, and AI implementation.
 
